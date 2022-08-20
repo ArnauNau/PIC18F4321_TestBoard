@@ -7,7 +7,8 @@ A PCB design to be used as a test/development board for the PIC18F4321 microcont
  - 5V voltage regulator (if powered with an external power supply, to be enabled with a Jumper),
  - Connectors for:
    - the PicKit3, allowing for programming and debugging via MPLAB X,
-   - a serial connection via USB-TTL
+   - a 5-pin header for a serial connection via USB-TTL,
+   - a 5-pin header for a joystick,
  - 2 LEDs and 2 push buttons for testing purposes,
  - a 7 segment display for testing purposes,
  - a Reset push button for the microcontroller,
